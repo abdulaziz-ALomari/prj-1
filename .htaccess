@@ -1,3 +1,0 @@
-Options -Indexes
-ErrorDocument 404 "<h1>Nothing Here</h1><a href='./'>Go Home</a>"
-ErrorDocument 403 "<h1>Nice catch</h1><a href='./'>Go Home</a>"
